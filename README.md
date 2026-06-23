@@ -1,1 +1,2 @@
-# rm_2_market_risk_eval
+# Market risk evaluation project 
+Team: Danila, Dmitry, Tushin, Maria 
